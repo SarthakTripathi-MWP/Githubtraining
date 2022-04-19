@@ -6,3 +6,6 @@ Emoji
 Type option
 Color
 Vibrant 
+
+Video call
+languages
